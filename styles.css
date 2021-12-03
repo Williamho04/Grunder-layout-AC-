@@ -1,0 +1,50 @@
+body {
+  color: black;
+  background-color: lightblue
+}
+
+p {
+  color: black;
+  background-color: lightgreen;
+  font-family: verdana, sans-serif;
+}
+
+h1 {}
+
+h2 {}
+
+header {
+  color: black;
+  background-color: lightblue
+}
+
+section {
+  color: black;
+  background-color: lightblue;
+  padding: 10px;
+  display: flex;
+  grid-template-columns: 1fr 1fr;
+}
+
+article {
+  color: black;
+  background-color: lightgreen;
+  margin: 4px;
+  padding: 10px;
+}
+
+footer {
+  color: black;
+  background-color: lightgreen;
+  padding: 10px;
+}
+
+a {
+  color: darkgreen;
+  background-color: lightgreen;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
